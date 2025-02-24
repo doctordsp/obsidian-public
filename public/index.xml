@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>🪴 Quartz 4.0</title>
+      <title>🪴 EM</title>
       <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <description>Last 10 notes on 🪴 EM</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>Welcome to Quartz</title>
@@ -23,6 +23,12 @@
     <guid>https://quartz.jzhao.xyz/AI-Jobs-To-Be-Done/Analysis-(e.g.-reduce-the-pain-of-getting-insights-from-vast-amounts-of-data)</guid>
     <description></description>
     <pubDate>Wed, 29 May 2024 00:07:42 GMT</pubDate>
+  </item><item>
+    <title>A Barely Passable Graphic for Project-Project</title>
+    <link>https://quartz.jzhao.xyz/A-Barely-Passable-Graphic-for-Project-Project</link>
+    <guid>https://quartz.jzhao.xyz/A-Barely-Passable-Graphic-for-Project-Project</guid>
+    <description></description>
+    <pubDate>Fri, 24 May 2024 15:37:44 GMT</pubDate>
   </item><item>
     <title>20240522-Wed</title>
     <link>https://quartz.jzhao.xyz/Daily-Project-Note/20240522-Wed</link>
@@ -59,12 +65,6 @@
     <guid>https://quartz.jzhao.xyz/AI-Jobs-To-Be-Done/Evaluative-(e.g.-reduce-pain-of-grading)</guid>
     <description>Grading.</description>
     <pubDate>Tue, 21 May 2024 17:40:49 GMT</pubDate>
-  </item><item>
-    <title>Sense-Making (e.g. reduce pain of creating smart narrative)</title>
-    <link>https://quartz.jzhao.xyz/AI-Jobs-To-Be-Done/Sense-Making-(e.g.-reduce-pain-of-creating-smart-narrative)</link>
-    <guid>https://quartz.jzhao.xyz/AI-Jobs-To-Be-Done/Sense-Making-(e.g.-reduce-pain-of-creating-smart-narrative)</guid>
-    <description>Summarization of notes, especially project notes collected over time The idea is to create a narrative springboard.</description>
-    <pubDate>Tue, 21 May 2024 17:40:32 GMT</pubDate>
   </item>
     </channel>
   </rss>
